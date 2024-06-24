@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: SpringAI-Test
-
-  ai:
-    openai:
-      api-key:
